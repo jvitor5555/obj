@@ -1,0 +1,19 @@
+// Toda classe java é criada com class NomedaClasse{}
+
+// Atributos private só podem ser acessados dentro da própria classe
+
+// Construtor chamado automaticamente quando criamos um obj da classe
+
+// o this diferencia um atributo da classe, do parâmetro nome
+
+this.nome - (Esse é o atributo da classe) 
+
+// O construtor tem a função de inicializar os atributos da classe
+quando criado
+
+// Métodos get permitem acessar atributos privados
+
+
+// Podemos criar método para calcular valores baseados nos atributos da classe
+
+// Podemos criar métodos void para exibir informações sem retornar nada
